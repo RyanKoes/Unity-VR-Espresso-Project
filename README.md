@@ -1,8 +1,7 @@
 # Espresso Brewing XR Tutorial
-An interactive VR espresso-making training experience built with Unity 6.2, OpenXR, and the XR Interaction Toolkit.  
-Designed for natural hand-tracked interaction, the application teaches users the full espresso brewing workflow—grinding beans, tamping, locking the portafilter, steaming milk, and pulling the perfect shot.
+An interactive VR espresso-making training experience built with Unity 6.2, OpenXR, and the XR Interaction Toolkit. Designed for natural hand-tracked interaction, this application teaches users the full espresso brewing workflow—grinding beans, tamping, locking the portafilter, steaming milk, and pulling the perfect shot.
 
-The project runs smoothly on the Meta Quest 3, and uses hand tracking for a controller-free experience. The XR Interaction Toolkit provides hand interaction through pinching and grabbing gestures. The experience is primarily designed for right-handed users, but left-handed support can be added in future updates. Direct and ray interactions are both supported.
+The project runs smoothly on the Meta Quest 3, and is primarily designed for hand interaction. The XR Interaction Toolkit provides hand interaction through pinching and grabbing gestures. The experience is primarily designed for right-handed users, but left-handed support can be added in future updates. Direct and ray interactions are both supported.
 
 In the tutorial, the user is guided through each step through a UI panel near the espresso machine. The steps for brewing include
 grinding beans, tamping, locking the portafilter, pulling the shot, steaming milk, and pouring a latte. The scene has ambient lofi music, which can be toggled on or off using the table button on the far left. There is also a timer button included on the table next to the UI panel for users to time their progress. Finally, a reset button is included on the far right side of the table to reset the tutorial.
@@ -75,6 +74,13 @@ These should install automatically when the project loads:
   Expand the tutorial to include other coffee brewing methods like pour-over, French press, and cold brew.
 - **Gamify the Experience**  
   Introduce scoring, time challenges, and achievements to make learning more engaging.
+
+---
+
+## Project Video Demo
+https://drive.google.com/file/d/1lfXmHi8CMMoljb_Vi1NEpKaDzLrXEQH3/view?usp=sharing
+---
+
 
 
 
