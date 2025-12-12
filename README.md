@@ -67,13 +67,13 @@ These should install automatically when the project loads:
 ## Future Development Roadmap
 
 - **Develop Workflow**
-  Currently, the tutorial doesn't keep track of user progress. The user can perform tasks in any order. Future updates will implement a structured workflow that guides users through the espresso-making process step-by-step, ensuring they complete each stage in the correct sequence.
+Currently, the tutorial doesn't keep track of user progress. The user can perform tasks in any order. Future updates will implement a structured workflow that guides users through the espresso-making process step-by-step, ensuring they complete each stage in the correct sequence.
 - **Enhanced Hand Interactions**  
-  Improve hand tracking responsiveness and add more complex gestures. This could include alternative grips for different tools.
+Improve hand tracking responsiveness and add more complex gestures. This could include alternative grips for different tools.
 - **Additional Brewing Techniques**  
-  Expand the tutorial to include other coffee brewing methods like pour-over, French press, and cold brew.
+Expand the tutorial to include other coffee brewing methods like pour-over, French press, and cold brew.
 - **Gamify the Experience**  
-  Introduce scoring, time challenges, and achievements to make learning more engaging.
+Introduce scoring, time challenges, and achievements to make learning more engaging.
 
 ---
 
