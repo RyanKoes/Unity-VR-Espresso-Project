@@ -1,0 +1,11 @@
+Model Information:
+* title:	Coffee Packet
+* source:	https://sketchfab.com/3d-models/coffee-packet-10c473aca9f1483499f52d86c3c24323
+* author:	3dDan (https://sketchfab.com/kellettupholstery)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Coffee Packet" (https://sketchfab.com/3d-models/coffee-packet-10c473aca9f1483499f52d86c3c24323) by 3dDan (https://sketchfab.com/kellettupholstery) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

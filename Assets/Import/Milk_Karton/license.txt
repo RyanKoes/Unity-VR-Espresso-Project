@@ -1,0 +1,11 @@
+Model Information:
+* title:	Milk Karton
+* source:	https://sketchfab.com/3d-models/milk-karton-cf379a7c1c864784b699a1b9be5ef86a
+* author:	Leon_3737 (https://sketchfab.com/sgp.30072010)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Milk Karton" (https://sketchfab.com/3d-models/milk-karton-cf379a7c1c864784b699a1b9be5ef86a) by Leon_3737 (https://sketchfab.com/sgp.30072010) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)

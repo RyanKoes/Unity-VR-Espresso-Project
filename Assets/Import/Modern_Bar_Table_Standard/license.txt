@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modern Bar Table Standard
+* source:	https://sketchfab.com/3d-models/modern-bar-table-standard-34f45fb50f88439abec8947e33087866
+* author:	EP (https://sketchfab.com/ExhibitP)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modern Bar Table Standard" (https://sketchfab.com/3d-models/modern-bar-table-standard-34f45fb50f88439abec8947e33087866) by EP (https://sketchfab.com/ExhibitP) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

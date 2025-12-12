@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tamper IKAPE
+* source:	https://sketchfab.com/3d-models/tamper-ikape-b1ec69eca15e4aefb4fbef5faaa5c861
+* author:	Ivan_Nario_UTJ (https://sketchfab.com/Ivan_Nario_UTJ)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tamper IKAPE" (https://sketchfab.com/3d-models/tamper-ikape-b1ec69eca15e4aefb4fbef5faaa5c861) by Ivan_Nario_UTJ (https://sketchfab.com/Ivan_Nario_UTJ) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

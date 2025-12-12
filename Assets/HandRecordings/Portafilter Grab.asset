@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5fb3781030442f2bcc893f0dbffabc5, type: 3}
+  m_Name: Portafilter Grab
+  m_EditorClassIdentifier: Unity.XR.Hands::UnityEngine.XR.Hands.Gestures.XRHandShape
+  m_FingerShapeConditions:
+  - m_FingerID: 0
+    m_Targets:
+    - m_ShapeType: 0
+      m_UpperTolerance: 0.789
+      m_LowerTolerance: 0.255
+      m_Tolerance: 0
+      m_Desired: 0.435
+  - m_FingerID: 1
+    m_Targets:
+    - m_ShapeType: 0
+      m_UpperTolerance: 0.821
+      m_LowerTolerance: 0.139
+      m_Tolerance: 0
+      m_Desired: 0.8627575
+  - m_FingerID: 2
+    m_Targets:
+    - m_ShapeType: 0
+      m_UpperTolerance: 0.384
+      m_LowerTolerance: 0
+      m_Tolerance: 0
+      m_Desired: 0.84243846
+    - m_ShapeType: 3
+      m_UpperTolerance: 0.447
+      m_LowerTolerance: 0.064
+      m_Tolerance: 0
+      m_Desired: 0
+    - m_ShapeType: 4
+      m_UpperTolerance: 0.425
+      m_LowerTolerance: 0.047
+      m_Tolerance: 0
+      m_Desired: 0
+  - m_FingerID: 3
+    m_Targets:
+    - m_ShapeType: 0
+      m_UpperTolerance: 0.415
+      m_LowerTolerance: 0.017
+      m_Tolerance: 0
+      m_Desired: 0.81057775
+    - m_ShapeType: 3
+      m_UpperTolerance: 0.456
+      m_LowerTolerance: 0.047
+      m_Tolerance: 0
+      m_Desired: 0
+    - m_ShapeType: 4
+      m_UpperTolerance: 0.435
+      m_LowerTolerance: 0.047
+      m_Tolerance: 0
+      m_Desired: 0
+  - m_FingerID: 4
+    m_Targets:
+    - m_ShapeType: 0
+      m_UpperTolerance: 0.384
+      m_LowerTolerance: 0.047
+      m_Tolerance: 0
+      m_Desired: 0.80399674
+    - m_ShapeType: 3
+      m_UpperTolerance: 0.353
+      m_LowerTolerance: 0.037
+      m_Tolerance: 0
+      m_Desired: 0

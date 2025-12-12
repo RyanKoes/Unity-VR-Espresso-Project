@@ -1,0 +1,2 @@
+/Volumes/Extreme Pro/Personal Projects/Final Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Volumes/Extreme Pro/Personal Projects/Final Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

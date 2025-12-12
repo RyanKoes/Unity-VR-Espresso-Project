@@ -1,0 +1,11 @@
+Model Information:
+* title:	La Marzocco
+* source:	https://sketchfab.com/3d-models/la-marzocco-7bea6aeefad54c129df0be4d708a1e55
+* author:	v.volvap (https://sketchfab.com/v.volvap)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "La Marzocco" (https://sketchfab.com/3d-models/la-marzocco-7bea6aeefad54c129df0be4d708a1e55) by v.volvap (https://sketchfab.com/v.volvap) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
