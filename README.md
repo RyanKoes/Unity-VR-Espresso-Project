@@ -81,6 +81,17 @@ Introduce scoring, time challenges, and achievements to make learning more engag
 https://drive.google.com/file/d/1lfXmHi8CMMoljb_Vi1NEpKaDzLrXEQH3/view?usp=sharing
 ---
 
+## Credits
+
+- 3D Cup Model highpoly: https://sketchfab.com/3d-models/3d-cup-model-highpoly-17e01bc53ecd419db13e4990291935be
+- Cafe-Misti: https://sketchfab.com/3d-models/cafe-misti-419c3293b0e54313be4b1f02845d606a
+- Canarian Cafe - Coffee Grinder: https://sketchfab.com/3d-models/canarian-cafe-coffee-grinder-78d7e61da65c4b368074c978e742bdfc
+- Canarian Cafe - Milk Jug: https://sketchfab.com/3d-models/canarian-cafe-milk-jug-344c9e052be24acfb0bc1bdca53290f9
+- Coffee Packet: https://sketchfab.com/3d-models/coffee-packet-10c473aca9f1483499f52d86c3c24323
+- La Marzocco: https://sketchfab.com/3d-models/la-marzocco-7bea6aeefad54c129df0be4d708a1e55
+- Milk Karton: https://sketchfab.com/3d-models/milk-karton-cf379a7c1c864784b699a1b9be5ef86a
+- Tamper IKAPE: https://sketchfab.com/3d-models/tamper-ikape-b1ec69eca15e4aefb4fbef5faaa5c861
+- Lofi world vol 1: https://assetstore.unity.com/packages/audio/music/lofi-world-vol-1-7-free-music-tracks-214014
 
 
 
